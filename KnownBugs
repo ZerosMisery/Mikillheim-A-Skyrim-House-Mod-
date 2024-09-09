@@ -4,3 +4,5 @@ Fix wall glitch in the new house downstairs - you can kinda walk/go through one 
 “Any interesting rumors?” can be asked again upon quest completion. It should only be asked once, before the quest is started/completed.
 
 I don't know how to fix these yet, but I am looking into it.
+
+Not a bug, but as of now, followers cannot enter the home. I will look into a solution for this too.
